@@ -1,2 +1,1 @@
-Udacity android nanodegree project no. 1
-Single screen aap.
+Single screen aap. Udacity android basics nanodegree.

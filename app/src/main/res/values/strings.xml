@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="shopName">The Burger Shop!</string>
+    <string name="address">Shopping Complex, RCF, Kaputhala</string>
+    <string name="contact">9897634892</string>
+    <string name="head">Best Burgers in town</string>
+    <string name="desc">"WE SERVE THE BEST BURGERS IN TOWN"</string>
+    <string name="Burgers">BURGERS: Chicken Burger, Bacon Burger, Cream Burger, Cheese burger and many more!</string>
+    <string name="fries">FRIES: Potato fries, Sweet Potato fries and Masala fries.</string>
+    <string name="shakes">SHAKES: Chocolate shake, Vanilla Shale and Milk Shake.</string>
+    <string name="menu">Menu!</string>
+</resources>
